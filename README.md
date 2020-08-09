@@ -9,18 +9,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning at Hutech
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about how to make you happy ^^
+- 📫 How to reach me: https://www.facebook.com/HuynhMinhHoang.69
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 ```
-cádadssadasdsads
-
+CaMucNho
 ```
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
