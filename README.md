@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ```
-# I hate the most that everything I like leaves me
+I hate the most that everything I like leaves me.! 
 ```
