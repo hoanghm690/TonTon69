@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about how to make you happy ^^
 - 📫 How to reach me: https://www.facebook.com/HuynhMinhHoang.69
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Success is something you attract by the person you become :D
 
 ```
 I hate the most that everything I like leaves me.! <3
