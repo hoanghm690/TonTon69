@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm TonTon 😄😄😄
-- Fun fact: Success is something you attract by the person you become ⚡⚡⚡
+- 4 words always: always smile, always gentle, always understanding, always help. ⚡⚡⚡
 
 [Facebook](https://www.facebook.com/HuynhMinhHoang.69)
 
