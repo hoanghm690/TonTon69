@@ -22,6 +22,6 @@ Languages and Frameworks I know and Study
 <img align="right" src="https://user-images.githubusercontent.com/67463412/129671456-61ef0d33-44b3-472d-916b-8dbad6b628a0.gif" width="500" height="320" /> 
 
 My github stats
-
-![TonTon69's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonTon69&theme=great-gatsby&show_icons=true)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TonTon69&theme=great-gatsby&show_icons=true" />
+</p>
