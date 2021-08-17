@@ -1,5 +1,5 @@
 ## Hi there, welcome to my Github <img src="https://user-images.githubusercontent.com/67463412/129594509-ebe7e349-b763-498c-9d0e-021d6cee5d40.gif" width="25" />
-[<img alt="Linkedin" width="25" src="https://user-images.githubusercontent.com/67463412/129597852-fa95d638-50a6-4053-931f-86d2b473c968.png" />][linkedin]
+[<img alt="Linkedin" width="22" src="https://user-images.githubusercontent.com/67463412/129685506-55be7564-06eb-410e-8a3c-f947aec2aad7.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/humiho69
 
