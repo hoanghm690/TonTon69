@@ -1,8 +1,10 @@
 ## Hi there, welcome to my Github <img src="https://user-images.githubusercontent.com/67463412/129594509-ebe7e349-b763-498c-9d0e-021d6cee5d40.gif" width="25" />
-[<img alt="Linkedin" align="left" width="22" src="https://user-images.githubusercontent.com/67463412/129685506-55be7564-06eb-410e-8a3c-f947aec2aad7.png" />][linkedin]
+[<img alt="Linkedin" align="left" width="22" src="https://user-images.githubusercontent.com/67463412/129690377-cb0e0efa-043e-473e-ad5c-9f6fceb7b34e.png" />][linkedin]
+[<img alt="Gmail" align="left" width="22" src="https://user-images.githubusercontent.com/67463412/129690527-c3978e56-ab4a-45f5-9c2c-3ac0222c89f1.png" />][gmail]
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=TonTon69)
 
 [linkedin]: https://www.linkedin.com/in/humiho69
+[gmail]: mailto:hoanghuynh0609@gmail.com
 
 > Hey, I'm Huynh Minh Hoang, who wants to become a professional web developer. ✌️✌️✌️
 
