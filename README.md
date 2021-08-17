@@ -25,4 +25,4 @@ I love to play chess and travel. 🌏🌍🌎*
 <img align="right" src="https://user-images.githubusercontent.com/67463412/129671456-61ef0d33-44b3-472d-916b-8dbad6b628a0.gif" width="350" height="250" /> 
 
 #### My github stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=TonTon69&theme=great-gatsby&show_icons=true" />
+<img width="450" src="https://github-readme-stats.vercel.app/api?username=TonTon69&theme=great-gatsby&show_icons=true" />
