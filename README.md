@@ -4,16 +4,12 @@
 [<img alt="Spotify" align="left" width="22" src="https://user-images.githubusercontent.com/67463412/130736218-b0b19779-48fc-48ff-87e4-67ab7e2c9a9f.png" />][spotify]
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=TonTon69)
 
-[linkedin]: https://www.linkedin.com/in/humiho69
 [gmail]: mailto:hoanghuynh0609@gmail.com
 [spotify]: https://open.spotify.com/playlist/0Cyxs9TnGZR7RIDwr614LB?si=c5f614fa86854ae4
 
-> Hey, I'm Huynh Minh Hoang, who wants to become a professional web developer. ✌️✌️✌️
+> Hey, I'm Huynh Minh Hoang ✌️✌️✌️
 
 >> *4 words always: always smile, always gentle, always understanding, always help. 😄😄😄\
-You should message me if you are: Sexy, smart, fit and fun. I don’t think that’s too much to ask. 😍😍😍\
-Never study to be successful, study for self efficiency. Don’t run behind success. Follow behind excellence, success will come all way behind you. 🔥🔥🔥\
-I love to play chess and travel. 🌏🌍🌎*
 
 #### Languages and Frameworks I know and Study
 
