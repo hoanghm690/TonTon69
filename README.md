@@ -9,7 +9,7 @@
 
 > Hey, I'm Huynh Minh Hoang ✌️✌️✌️
 
->> *4 words always: always smile, always gentle, always understanding, always help. 😄😄😄\
+>> *4 words always: always smile, always gentle, always understanding, always help. 😄😄😄
 
 #### Languages and Frameworks I know and Study
 
